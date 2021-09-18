@@ -2,7 +2,7 @@
 	"__README__": "English table is not built yet due to the absence of my English skill. Please translate this if you are good at English.",
 
 	"GLOBAL": {
-		"GPL": "<div style='color: #666;'>Rule the words! KKuTu Online Copyright (C) {year} {author}({email addr.})<br>This program comes with ABSOLUTELY NO WARRANTY.<br>This is free software, and you are welcome to redistribute it under certain conditions.<br>For details visit the repository of this software: <a target='_blank' href='{url of the source code of this server}'>{url of the source code of this server}</a></div>",
+		"GPL": "<div style='color: #666;'>Rule the words! KKuTu Online Copyright (C) 2021 slimekkutu@gmail.com<br>This program comes with ABSOLUTELY NO WARRANTY.<br>This is free software, and you are welcome to redistribute it under certain conditions.<br>For details visit the repository of this software: <a target='_blank' href='https://github.com/jusnorare/SlimeKKUTU'>https://github.com/jusnorare/SlimeKKUTU</a></div>",
 
 		"CREATOR":	"개발자 블로그",
 		"HOME":		"FA{home}",
@@ -342,6 +342,9 @@
 		"theme_IMS": "THE iDOLM@STER",
 		"theme_VOC": "VOCALOID",
 		"theme_KRR": "개구리 중사 케로로",
+		"theme_BGG": "보드게임",
+		"theme_RZR": "리제로",
+		"theme_KNS": "코노스바",
 		"theme_KTV": "국내 방송 프로그램",
 		"theme_NSK": "니세코이",
 		"theme_KOT": "대한민국 철도역",
@@ -356,7 +359,7 @@
 		"theme_MAP": "메이플스토리",
 		"theme_MKK": "메카쿠시티 액터즈",
 		"theme_MNG": "모노가타리 시리즈",
-		"theme_MOB": "모바일 게임",
+		"theme_MOB": "비디오 게임",
 		"theme_HYK": "빙과",
 		"theme_CYP": "사이퍼즈",
 		"theme_HRH": "스즈미야 하루히",
@@ -374,6 +377,7 @@
 		"theme_KPO": "유명인",
 		"theme_JLN": "라이트 노벨",
 		"theme_JAN": "만화/애니메이션",
+		"theme_KKR": "쿠키런",
 		"theme_ZEL": "젤다의 전설",
 		"theme_POK": "포켓몬스터",
 		"theme_HAI": "하이큐!!",
@@ -381,6 +385,7 @@
 		"theme_KMV": "한국 영화",
 		"theme_HDC": "함대 컬렉션",
 		"theme_HOS": "히어로즈 오브 더 스톰",
+		"theme_SSH": "소설/시/희곡",
 
 		"class_1": "명",
 		"class_2": "대명",
