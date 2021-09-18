@@ -38,6 +38,7 @@ exports.OPTIONS = {
 	'mis': { name: "Mission" },
 	'loa': { name: "Loanword" },
 	'prv': { name: "Proverb" },
+	'nst': { name: "NoStack"},
 	'str': { name: "Strict" },
 	'k32': { name: "Sami" },
 	'no2': { name: "No2" }
@@ -88,7 +89,7 @@ exports.RULE = {
 	},
 	'KKT': { lang: "ko",
 		rule: "Classic",
-		opts: [ "man", "ext", "mis", "loa", "str", "k32" ],
+		opts: [ "man", "ext", "nst", "mis", "loa", "str", "k32" ],
 		time: 1,
 		ai: true,
 		big: false,
@@ -96,7 +97,7 @@ exports.RULE = {
 	},
 	'KSH': { lang: "ko",
 		rule: "Classic",
-		opts: [ "man", "ext", "mis", "loa", "str" ],
+		opts: [ "man", "ext", "mis", "nst", "loa", "str" ],
 		time: 1,
 		ai: true,
 		big: false,
@@ -206,7 +207,7 @@ exports.KO_INJEONG = [
 	"MOB", "HYK", "CYP", "HRH", "STA", "OIJ",
 	"KGR", "ESB", "ELW", "OIM", "OVW", "NEX", /*"WOW",*/
 	"YRY", "KPO", "JLN", "JAN", "ZEL", "POK", "HAI",
-	"HSS", "KMV", "HDC", "HOS"
+	"HSS", "KMV", "HDC", "HOS", "JSS", "RZR", "KNS", "SSH", "AIS", "SLK", "NGN"
 ];
 exports.EN_INJEONG = [
 	"LOL"
